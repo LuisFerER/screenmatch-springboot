@@ -35,9 +35,6 @@ Al ejecutar el proyecto, se muestra un menú interactivo en consola con las sigu
 
 0 - Salir
 ```
-
-![Captura de pantalla](./Captura%20de%20pantalla%202025-06-10%20130300.png)
-
 ---
 
 ## 🚀 Ejecución del proyecto
